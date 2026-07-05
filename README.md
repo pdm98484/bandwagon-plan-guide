@@ -1,0 +1,1 @@
+# bandwagonhost-affiliate-strategy
