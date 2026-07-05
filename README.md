@@ -1,140 +1,165 @@
-# BandwagonHost VPS Affiliate Program: How Does It Work, What Do You Actually Earn, and Is the 22% Commission Worth Promoting?
+# 搬瓦工哪个套餐实惠？从 $49.99/年到香港高端线路全面拆解：KVM 入门到 CN2 GIA-E 该怎么选、限量版传家宝抢不到怎么办、不同预算场景一次说清楚
 
-Most VPS affiliate programs hand you a flat $50–$100 CPA and call it a day. BandwagonHost does something different: 22% of **every payment** a referred customer ever makes — renewals included. That's the short version. If you're evaluating VPS affiliate programs and want to know whether BandwagonHost belongs on your shortlist, here's the full picture.
+第一次打开搬瓦工官网，大概率会有点懵——套餐一堆，英文界面，价格跨度从 $49.99/年到 $89.99/月，连机房名字都是 DC6、JPOS_1 这种代号，完全不知道从哪里下手。
 
-**What is the BandwagonHost affiliate program?** It's a revenue-share program run by IT7 Networks that pays you 22% of all orders placed through your affiliate link — not just the first purchase, but recurring payments too. Minimum payout starts at $0.01, and you can withdraw via PayPal or leave funds in your account balance.
-
----
-
-## What You Get: The Commission Structure in Plain Terms
-
-The number that stands out is 22% recurring. Let's make that concrete.
-
-Say someone clicks your link and buys a CN2 GIA-E plan at around $170/year. Your cut: roughly $37 that year. If they renew the next year, another $37. Most hosting affiliate programs pay once and forget you exist — this one compounds quietly over time.
-
-Payouts are processed instantly for most withdrawals. The first withdrawal goes through a manual review (standard fraud prevention), but after that it's largely automated. Under $1,000 goes out via PayPal; amounts over $1,000 can go PayPal or wire transfer depending on availability. The $0.01 minimum threshold is basically no threshold — you're not waiting to accumulate $100 before seeing anything.
-
-👉 [查看 BandwagonHost 联盟计划详情并注册](https://bit.ly/BanWaGon)
+搬瓦工哪个套餐实惠，这问题说简单也简单：**绝大多数人首选 CN2 GIA-E 入门档，算下来每天不到 $0.47。** 但说复杂也真的复杂，因为"实惠"这件事要跟你的实际用途挂钩。本文直接拆开讲。
 
 ---
 
-## Why VPS Hosting Affiliate Programs Convert — and Where BandwagonHost Fits
+## 搬瓦工是什么、套餐整体结构是什么
 
-VPS hosting is a surprisingly strong affiliate niche. The buyers are technical, they research before buying, and once they're on a host they trust, they stick around. Churn is lower than most SaaS products.
+搬瓦工（BandwagonHost）是加拿大 IT7 Networks 旗下的 VPS 服务商，做了二十年了。面向国内用户最大的优势是：**CN2 GIA 线路覆盖面广，支持在多个机房之间免费迁移**，以及自研的 KiwiVM 后台，关机、重启、换系统、迁机房全部点几下搞定。
 
-BandwagonHost has carved out a specific corner of this market: developers and power users who need reliable performance for China-adjacent routing, or who want enterprise-grade KVM virtualization at a price that doesn't require a business budget. The entry point sits around $49.99/year for a standard plan — low enough that the conversion friction is minimal.
+套餐大体分四档：
 
-What makes this useful for affiliates specifically: the product sells itself in the right context. You're not pushing a vague service at a vague audience. You're writing for someone who typed "cheap KVM VPS" or "VPS with CN2 GIA" and actually wants to know which one to buy. BandwagonHost comes up in those searches organically. Your affiliate content just needs to show up nearby and do the explaining.
-
----
-
-## The VPS Plans You'd Be Promoting
-
-Full disclosure on what you're actually sending people to — the product has to hold up, or your referrals churn and your recurring commissions disappear.
-
-BandwagonHost runs KVM virtualization on enterprise hardware (Intel Xeon E5 CPUs, RAID-10 SAS/SSD storage, and NVMe in newer locations like LA DC9 and Hong Kong). They own their own equipment and IP space — not reselling someone else's infrastructure. That shows up in uptime consistency.
-
-The control panel is called KiwiVM, built in-house. It handles the basics well: start/stop, OS reload, reverse DNS, datacenter migration, snapshots. The datacenter migration feature is genuinely rare at this price point — you can move your VPS between locations without rebuilding from scratch.
-
-### Plan Overview: What's Available
-
-| Plan Line | Starting Price | RAM | Storage | Bandwidth | Network | Available Locations |
-|---|---|---|---|---|---|---|
-| Standard KVM | ~$49.99/yr | 1 GB | 20 GB SSD RAID-10 | 1 TB/mo | 1 Gbps | LA, Fremont, NYC, NJ, Amsterdam, Dubai | 
-| CN2 GIA-E (Premium) | ~$169.99/yr | 1–4 GB | 20–80 GB SSD RAID-10 | 1 TB+/mo | 1–2.5 Gbps | LA DC6/DC9, HK, Tokyo, Singapore, Osaka, Vancouver + more |
-| Dubai VPS | ~$19.99/mo | 1 GB | 20 GB SSD RAID-10 | 1 TB/mo | 1 Gbps | Dubai |
-| Hong Kong Premium | ~$89.99/mo | 2 GB | 40 GB SSD | varies | 1 Gbps+ | HK8 (Equinix), CN2 GIA |
-
-All plans include: full root access, PPP/VPN support (tun/tap), instant rDNS setup, free snapshots, 30-day refund policy, 99.9% uptime SLA, and KiwiVM control panel.
-
-The CN2 GIA-E tier is the flagship — triple-carrier optimization (China Telecom CN2 GIA + China Mobile CMIN2 + China Unicom Premium), DDoS protection, and access to 13+ premium datacenter locations. If your audience includes anyone building services that touch mainland China, this is the plan they'll end up on.
-
-👉 [对比所有 BandwagonHost 套餐，找到最适合你的方案](https://bit.ly/BanWaGon)
+- **KVM 系列**：普通国际线路，价格最低，入门用或不在乎线路的选这个
+- **CN2 GIA-E 系列**：主力推荐，三网优化（电信/联通/移动），可切换十几个机房
+- **香港 CN2 GIA 系列**：延迟极低，适合对速度要求苛刻的，贵
+- **限量版套餐**：不定期上架，性价比通常是常规套餐的 2-3 倍，但经常缺货
 
 ---
 
-## How to Join the BandwagonHost Affiliate Program
+## 搬瓦工哪个套餐实惠：常规套餐完整对比表
 
-Four steps. Not complicated.
+以下是目前搬瓦工官网在售的主要套餐，价格均为官网标价：
 
-1. **Create a BandwagonHost account** — you need a client account first. Register at the main site, takes two minutes.
-2. **Access the affiliate dashboard** — once logged in, navigate to the Affiliates section in your client area to get your unique affiliate ID.
-3. **Build your links** — your base link follows the pattern `bandwagonhost.com/aff.php?aff=YOUR_ID`. To link directly to a specific plan, append `&pid=PRODUCT_ID` (you can find PIDs by hovering over "Order Now" buttons on the pricing page). To send users directly to all products, append `&gid=1`.
-4. **Start promoting and track conversions** — the dashboard shows clicks, signups, and commission accruals in real time.
+| 套餐系列 | 内存 | CPU | 硬盘 | 月流量 | 带宽 | 可选机房 | 价格 | 购买 |
+|---|---|---|---|---|---|---|---|---|
+| KVM 入门 | 1GB | 2核 | 20GB SSD | 1TB | 1Gbps | 美国/荷兰/加拿大多机房 | $49.99/年 |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=44) |
+| KVM 标准 | 2GB | 3核 | 40GB SSD | 2TB | 1Gbps | 同上 | $99.99/年 |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=45) |
+| KVM 进阶 | 4GB | 4核 | 80GB SSD | 3TB | 1Gbps | 同上 | $199.99/年 |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=46) |
+| KVM 高配 | 8GB | 5核 | 160GB SSD | 4TB | 1Gbps | 同上 | $399.99/年 |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=47) |
+| **CN2 GIA-E 入门（最推荐）** | **1GB** | **2核** | **20GB SSD** | **1TB** | **2.5Gbps** | **DC6/DC9/日本软银/荷兰 9929/加拿大等 12+ 机房** | **$169.99/年（$49.99/季）** |  [立即获取 CN2 GIA-E 最优价](https://bandwagonhost.com/aff.php?aff=80238&pid=87) |
+| CN2 GIA-E 标准 | 2GB | 3核 | 40GB SSD | 2TB | 2.5Gbps | 同上 | $299.99/年 |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=88) |
+| CN2 GIA-E 大配 | 4GB | 4核 | 80GB SSD | 3TB | 2.5Gbps | 同上 | $559.99/年 |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=89) |
+| 香港 CN2 GIA 小档 | 2GB | 2核 | 40GB SSD | 500GB | 1Gbps | 香港 HKHK_8 | $899.99/年（$89.99/月） |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=95) |
+| 香港 CN2 GIA 大档 | 4GB | 4核 | 80GB SSD | 1TB | 1Gbps | 香港 HKHK_8 | $1559.99/年（$155.99/月） |  [选择此方案](https://bandwagonhost.com/aff.php?aff=80238&pid=96) |
 
-BandwagonHost also has a mirror domain (bwh88.net) that works identically for affiliate links — useful if your audience is in a region where the primary domain gets blocked.
-
-One thing worth knowing: they actively monitor affiliate link usage. Cookie-stuffing, paid-to-click schemes, or links placed in ways that confuse users will get you banned. Real content targeting real buyers is what they want, which is also what converts anyway.
-
----
-
-## The Recurring Model: How Earnings Stack Over Time
-
-This is where the BandwagonHost program pulls ahead for content publishers.
-
-Most hosting programs pay once. You do the work once, get $80, and move on. BandwagonHost's 22% applies to renewals — so the math changes. A content piece that drives 10 annual renewals at $170/yr generates about $374/year passively, and those customers tend to stick around.
-
-Real talk: the 22% rate is on the lower end of *initial* commissions compared to programs offering $100–$200 flat CPA. But those programs pay once. If your audience buys mid-range plans and renews, the recurring model catches up and eventually passes the CPA model. For a blog or YouTube channel with durable evergreen content, recurring beats CPA almost every time.
-
-The $0.01 minimum payout is actually meaningful here — it means you can withdraw test amounts early, verify the tracking is working correctly, and build confidence in the system before scaling.
+> 备注：全部为 KVM 架构，SSD 存储，带独立 IPv4，含免费快照和自动备份。支持支付宝付款。
 
 ---
 
-## What Actually Works for Promoting BandwagonHost
+## 四种预算场景，对号入座
 
-Said this to a friend recently: the worst VPS affiliate content tries to reach everyone. The best stuff gets specific.
+### 场景一：就想要台便宜的 Linux 机器学学命令行
 
-BandwagonHost converts well with:
+直接看 **KVM $49.99/年**。
 
-- **CN2 GIA routing explainers** — anyone who's done latency testing between China and the US understands why premium routing matters. This audience exists, they research, and they buy.
-- **KiwiVM tutorials** — "how to set up [X] on BandwagonHost" content captures buyers who are already decision-mode and just need the final nudge.
-- **Price-tier comparisons** — the standard vs. CN2 GIA price difference is large enough to be interesting. Content that explains what you actually get for the extra money helps buyers self-select into the right plan.
-- **Developer-audience content** — self-managed VPS, full root access, API support — this product speaks directly to the developer who wants control without paying managed-hosting prices.
+算下来一个月不到 $4.2，1GB 内存跑个 Nginx + 小网站完全够用。线路是普通国际线路，国内访问延迟 200ms 左右，速度不算快但稳定，不会无缘无故掉线。
 
-What doesn't convert: generic "best VPS hosting" roundup content that mentions BandwagonHost alongside 12 other hosts and links to all of them. Too diluted, and the buyer has no reason to pick yours over the next article in the SERP.
+这档套餐最大的意义是**便宜**。学习用、测试脚本用、临时搭个代理用，成本低，坏了重装就行，心理负担小。
 
----
+👉 [查看搬瓦工 KVM 入门方案详情](https://bandwagonhost.com/aff.php?aff=80238&pid=44)
 
-## 30-Day Refund Policy: The Risk-Reversal That Closes Deals
+### 场景二：有稳定的流量访问需求，对速度有一定要求
 
-One thing that consistently comes up in positive feedback from BandwagonHost users: the 30-day refund policy works. Not as a theoretical guarantee buried in fine print — as an actual used thing. If someone buys a plan, tests it for a few weeks, and decides it's not the right fit, they can get their money back without a fight.
+这是搬瓦工哪个套餐实惠问题里最典型的需求——**CN2 GIA-E 入门档，$169.99/年（$49.99/季）**。
 
-For affiliates, this matters because it reduces purchase hesitation at the bottom of your funnel. The reader who's 80% convinced but worried about getting stuck with something that doesn't work — the refund policy is what gets them over the line.
+说实话，这档套餐是我用下来觉得性价比最到位的一个。2.5Gbps 带宽，DC6 CN2 GIA-E 机房三网优化，电信走 CN2 GIA、移动走 CMIN2，晚高峰实测速度也比 KVM 那边扛打得多。
 
-One note: IP blacklisting doesn't qualify for a refund. If a customer's VPS gets an IP that ends up on a blocklist, that's considered a use-case issue, not a product failure. Worth mentioning to your audience so they're not surprised.
+更关键的是**可以切机房**。买了之后如果发现某个机房延迟高，直接在 KiwiVM 后台选另一个，不用重买，数据保留，操作全自动。DC9 CN2 GIA、日本软银 JPOS_1、荷兰联通 EUNL_9……十几个机房随便切，这点在同价位里真没几家能做到。
 
-👉 [立即获取 BandwagonHost VPS，30 天不满意全额退款](https://bit.ly/BanWaGon)
+30 天内不满意可以申请全额退款，后台自动处理，我身边有人真退过，顺利到账。
 
----
+### 场景三：预算有限但想上 GIA 线路，抢限量版传家宝
 
-## FAQ
+搬瓦工有一款人称"传家宝"的限量版：**CN2 GIA-E 10G 规格，$49.99/年**，和常规 KVM 同价，但线路是 CN2 GIA-E，可以切 DC6/DC9/日本软银等 14 个机房。
 
-**Q: Does the 22% commission apply to renewals, or just the first purchase?**
-It applies to all payments — initial purchases and renewals alike. Every time a referred customer pays their bill, you earn 22% of that transaction.
+问题是：**常年缺货。** 补货之后几小时内就卖光，有时一两天，早年可能能撑一周，现在基本是闪现。
 
-**Q: How long does the affiliate cookie last?**
-The cookie duration is 30 days. A user who clicks your link and purchases within 30 days gets attributed to you.
+如果你看到有货，不用多想直接下。这个价位买到 GIA-E 线路，真的是买到就赚到。没货的时候就先用常规版，等着补货通知。
 
-**Q: Can I link directly to a specific plan rather than the general pricing page?**
-Yes. Append `&pid=PRODUCT_ID` to your affiliate link. Product IDs are visible when you hover over "Order Now" buttons on the pricing page. This lets you create plan-specific CTAs in your content.
+👉 [实时查看搬瓦工当前库存与在售套餐](https://bit.ly/BanWaGon)
 
-**Q: What if my audience can't access bandwagonhost.com?**
-BandwagonHost has a mirror domain (bwh88.net) that supports identical affiliate link structure. Replace the domain in your link — the cookie tracking works the same way.
+### 场景四：对延迟要求极高，预算充足
 
-**Q: Is there an approval process to join?**
-No application review — you sign up via your existing BandwagonHost client account. The first withdrawal is manually reviewed, but joining itself requires no approval.
+香港 CN2 GIA 套餐。三网全程 CN2 GIA，物理距离近，广东方向延迟能低到 10ms 出头，跑 AI 工具、远程桌面、低延迟游戏场景都没问题。
 
-**Q: What payment methods does BandwagonHost support for affiliate payouts?**
-PayPal for amounts under $1,000. For larger amounts, PayPal or wire transfer depending on availability. You can also leave earnings as account balance and use them for your own VPS purchases.
+代价是贵：$89.99/月起，一年下来接近 $1000。
+
+不是说不值，但要真正用到这个延迟优势的场景，才算实惠。对绝大多数人来说，CN2 GIA-E 已经够用了。
 
 ---
 
-## Bottom Line
+## 搬瓦工 CN2 GIA-E 为什么是大多数人的最优解
 
-The BandwagonHost VPS affiliate program is a solid pick for content publishers targeting technical audiences — developers, sysadmins, and anyone running services that benefit from China-optimized routing. The 22% recurring commission won't make you rich off a single referral, but it compounds predictably over time in a way flat CPA programs don't.
+讲真，搬瓦工哪个套餐实惠这个问题被问过太多次，最终答案基本都落在 CN2 GIA-E 上，原因不复杂：
 
-Product quality is real. They've been running since at least 2004 under IT7 Networks, own their own hardware, and the KiwiVM panel is genuinely usable. Referrals who get sent to this product tend to stick. That's what makes the recurring model work.
+1. **线路覆盖三网优化**，电信/联通/移动都不算差，不存在某一家运营商用起来特别拉胯的情况
+2. **2.5Gbps 带宽**，日常使用上限高，不容易跑满
+3. **机房切换自由**，一个套餐等于十几个机房的选择权，哪个机房出问题了换一个
+4. **运营稳定**，做了二十多年，跑路风险比很多小厂低得多
+5. **价格在高速 VPS 里算合理**，$169.99/年折算下来每天不到 $0.47
 
-If you're a blogger or channel owner writing about VPS hosting, Linux servers, or China-optimized infrastructure, this one's worth adding to your stack.
+用过的人通常提到最多的是稳定性和机房灵活度这两点。速度方面中规中矩，谈不上最快，但晚高峰不掉速，这比峰值快更重要。
 
-👉 [前往 BandwagonHost 注册并开始推广](https://bit.ly/BanWaGon)
+👉 [以 $49.99/季 开始使用 CN2 GIA-E](https://bandwagonhost.com/aff.php?aff=80238&pid=87)
+
+---
+
+## 几个买之前要知道的细节
+
+**关于优惠码：** 搬瓦工原先有长期通用折扣码（约 6.77% 循环折扣），但自 2025 年底双十一促销后官方已取消常规优惠码。偶尔会有短期活动码（比如双十一、黑五），但平时基本没有。不需要在网上找什么"最新优惠码"，直接按当前官网价格买就是了，不会因为没用码吃亏。
+
+**关于 IP 被封：** 搬瓦工更换 IP 需要额外付 $8，所以选好机房比较重要。CN2 GIA-E 可以切机房这一点，在某个 IP 出问题时实际上是个保险。
+
+**关于付款：** 支持支付宝、PayPal 和信用卡，国内用户直接支付宝就行，不需要额外折腾。
+
+**关于机房选择：** 买 CN2 GIA-E 后台可以切，但 KVM 套餐的可选机房没有 GIA-E 多，主要是美国几个机房和荷兰，CN2 GIA 机房不可用。这是两个系列最大的区别之一。
+
+---
+
+## 搬瓦工限量版套餐汇总（这些出现了就别犹豫）
+
+不定期上架，看到有货直接买，这类套餐常规价格是它的 2-3 倍：
+
+- **MINICHICKEN**：$19/年，1核/1GB/1TB 流量，弗里蒙特机房，普通线路，入门最便宜
+- **BiggerBox Pro**：$39/年，1核/1GB/1TB，洛杉矶 DC1，CN2 GIA + CMIN2
+- **MegaBox Pro**：$49/年，2核/2GB/2TB，洛杉矶 DC1，CN2 GIA + CMIN2
+- **The Tokyo Plan**：$79-99/年，1-2核/1-2GB，日本东京 DC39，三网 CMI
+- **SakuraBox**：$79/年，1核/1GB/500GB，日本东京 DC39，CMI 线路
+- **CN2 GIA-E 传家宝**：$49.99/年，10G 硬盘版，GIA-E 全线路可切，最抢手
+
+上面这些基本都是常年缺货状态，有货才有意义，缺货就别等着——直接买常规版或者先用 KVM 过渡。
+
+👉 [前往搬瓦工查看当前有货套餐](https://bit.ly/BanWaGon)
+
+---
+
+## FAQ：搬瓦工套餐选购常见问题
+
+**Q：搬瓦工哪个套餐最实惠，对国内用户来说？**
+
+A：大多数情况下是 CN2 GIA-E 入门档，$169.99/年，三网优化线路，支持 12+ 机房切换。如果预算真的有限，KVM $49.99/年也能用，但速度和线路差不少。
+
+**Q：KVM 和 CN2 GIA-E 的本质区别是什么？**
+
+A：线路不同。KVM 走普通国际线路，国内访问延迟 200ms 左右；CN2 GIA-E 走优化过的 CN2 GIA 线路，延迟和速度好一档。价格差也比较大，前者 $49.99/年，后者 $169.99/年。
+
+**Q：买的时候要选机房吗？**
+
+A：CN2 GIA-E 套餐买完之后可以随时在 KiwiVM 后台切换机房，不限次数，不额外收费。购买时默认选一个即可，不满意再换。KVM 套餐可选机房相对少，且不含 CN2 GIA 机房。
+
+**Q：支持退款吗？**
+
+A：新账户购买后 30 天内不满意可以申请全额退款，后台直接提交，自动处理，条件满足就退。超过 30 天则不支持。
+
+**Q：香港套餐值得买吗？**
+
+A：对延迟有苛刻要求的场景值得。日常建站、跑服务、代理用途，CN2 GIA-E 够用，没必要多花 5-6 倍价格。香港套餐主要是给对延迟极度敏感的用途准备的。
+
+**Q：搬瓦工限量版传家宝在哪里买？**
+
+A：直接去官网看。有货的时候 👉 [搬瓦工官方套餐页](https://bit.ly/BanWaGon) 会显示库存，缺货时显示 Out of stock。官网是唯一靠谱的购买渠道。
+
+---
+
+## 总结：根据预算直接对号入座
+
+- **年花不到 $50、学习用或随便用**：KVM 入门 $49.99/年 → 👉 [选择方案](https://bandwagonhost.com/aff.php?aff=80238&pid=44)
+- **主力机、需要国内访问速度稳定**：CN2 GIA-E 入门 $169.99/年 → 👉 [立即获取 CN2 GIA-E 最优价](https://bandwagonhost.com/aff.php?aff=80238&pid=87)
+- **内存/资源需求更高（2GB+）**：CN2 GIA-E 标准 $299.99/年 → 👉 [选择方案](https://bandwagonhost.com/aff.php?aff=80238&pid=88)
+- **看到限量版传家宝有货**：直接下，别犹豫 → 👉 [查看当前库存](https://bit.ly/BanWaGon)
+- **预算很充足、延迟优先**：香港 CN2 GIA $89.99/月 → 👉 [选择方案](https://bandwagonhost.com/aff.php?aff=80238&pid=95)
+
+这就是搬瓦工哪个套餐实惠这个问题的完整答案。
